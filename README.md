@@ -1,18 +1,14 @@
-## Hi there 👋
+## ¡Hola! Soy Axel Castaneda Granado 👋
 
-<!--
-**AxelCastanedaG/AxelCastanedaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-##¡Hola! Soy Axel Castaneda Granado👋
-##Soy un QA Junior / Trainee enfocado en asegurar la excelencia y estabilidad del software. Me apasiona encontrar fallos lógicos, optimizar la experiencia de usuario y automatizar procesos de prueba. Cuando no estoy ##reportando bugs, me encuentras leyendo o explorando mundos en los videojuegos
-- 🔭 I’m currently working on:
-##🎯 Mejorando mis habilidades en pruebas manuales y documentación (Test Cases, Bug Reports).
-##💻 Aprendiendo automatización de pruebas con Selenium, Cypress o Playwright.
-##📚 Estudiando metodologías ágiles (Scrum) y fundamentos de ISTQB.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ..
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un **QA Junior / Trainee** enfocado en asegurar la excelencia y estabilidad del software. Me apasiona encontrar fallos lógicos, optimizar la experiencia de usuario y automatizar procesos de prueba. Cuando no estoy reportando bugs, me encuentras leyendo o explorando mundos en los videojuegos.
+
+### 🎯 Mis Objetivos Actuales:
+- 📈 Mejorando mis habilidades en pruebas manuales y documentación (Test Cases, Bug Reports).
+- 💻 Aprendiendo automatización de pruebas con Selenium, Cypress o Playwright.
+- 📚 Estudiando metodologías ágiles (Scrum) y fundamentos de ISTQB.
+
+### 📫 Cómo contactarme:
+- 🔗 [Mi Linktree](https://linktr.ee/axel.castaneda.granado)
+
+### ⚡ Dato curioso:
+- 🎮 Si un juego se congela en pleno stream, no es un error... ¡es una prueba de estrés en vivo!
