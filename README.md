@@ -7,22 +7,10 @@ Apasionado por la fiabilidad del producto, el diseño estratégico de casos de p
 ---
 ## 🛠️ Tecnologías y Herramientas
 
-### Automatización y Pruebas
-![Python](https://shields.io)
-![Selenium](https://shields.io)
-![Postman](https://shields.io)
-![Android Studio](https://shields.io)
-![PyCharm](https://shields.io)
+* **Automatización y Pruebas:** Python | Selenium WebDriver | Postman | Android Studio | PyCharm
+* **Gestión y Metodologías:** Jira | Git & GitHub | Metodologías Ágiles (Scrum)
+* **Bases de Datos y Datos:** SQL (PostgreSQL/MySQL) | Microsoft Excel
 
-### Gestión y Metodologías
-![Jira](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![Agile](https://shields.io)
-
-### Bases de Datos y Datos
-![SQL](https://shields.io)
-![Excel](https://shields.io)
 ---
 ## 🚀 Competencias de QA
 
@@ -33,12 +21,13 @@ Apasionado por la fiabilidad del producto, el diseño estratégico de casos de p
 ---
 ## 📌 Proyectos Destacados
 
-* **[Automatización E2E en Urban Routes](ENLACE_A_TU_REPOSITORIO_SELENIUM):** Framework robusto con Python y Selenium bajo el patrón Page Object Model para flujos complejos de reserva.
-* **[API Testing en Urban Grocers & Scooters](ENLACE_A_TU_REPOSITORIO_POSTMAN):** Colecciones de Postman para la validación del 100% de endpoints críticos y gestión del ciclo de vida de errores.
----
+* **[Automatización de API en Urban Grocers](https://github.com/AxelCastanedaG/qa-project-Urban-Grocers-app-es.git):** Suite automatizada con Pytest y Requests para la validación exhaustiva de parámetros mediante análisis de valores límite.
+* **[Automatización E2E en Urban Routes](https://github.com/AxelCastanedaG/qa-project-Urban-Routes-es.git):** Framework robusto con Python y Selenium bajo el patrón Page Object Model para flujos complejos de reserva.
+
 ## 📬 Conectemos
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Portafolio](https://shields.io)](https://notion.so)
-[![Email](https://shields.io)](mailto:axel.castaneda.granado@gmail.com)
+* **LinkedIn:** [://linkedin.com](http://www.linkedin.com/in/axel-castaneda-granado)
+* **Portafolio en Notion:** [Ver Casos de Prueba y Reportes](https://www.notion.so/My-Portfolio-2ca1c7f1c9bb802eb6c2f89500496a6d?source=copy_link)
+* **Correo Electrónico:** [axel.castaneda.granado@gmail.com](mailto:axel.castaneda.granado@gmail.com)
+
 
