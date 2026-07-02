@@ -1,7 +1,6 @@
 # ¡Hola! Soy Axel Castaneda 👋
 
 ### Analista de QA / Software Quality Assurance Engineer
-📍 México (Disponible para trabajo 100% remoto)
 
 Apasionado por la fiabilidad del producto, el diseño estratégico de casos de prueba y la automatización. Me enfoco en optimizar los procesos de testing mediante la reducción de redundancias y el aislamiento rápido de errores para acelerar los tiempos de despliegue.
 ---
