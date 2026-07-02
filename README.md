@@ -25,8 +25,9 @@ Apasionado por la fiabilidad del producto, el diseño estratégico de casos de p
 
 ## 📌 Proyectos Destacados
 
-* **[Automatización de API en Urban Grocers](https://github.com/AxelCastanedaG/qa-project-Urban-Grocers-app-es.git):** Suite automatizada con Pytest y Requests para la validación exhaustiva de parámetros mediante análisis de valores límite.
-* **[Automatización E2E en Urban Routes](https://github.com/AxelCastanedaG/qa-project-Urban-Routes-es.git):** Framework robusto con Python y Selenium bajo el patrón Page Object Model para flujos complejos de reserva.
+* **[Pruebas de Caja Gris y API: Creación de Usuarios](https://github.com/AxelCastanedaG/api_stand_tests.git):** Suite automatizada con Pytest y Requests que realiza validación cruzada entre respuestas HTTP y la persistencia real en la Base de Datos para asegurar la integridad de los registros.
+* **[Automatización de API: Creación de Kits en Urban Grocers](https://github.com/AxelCastanedaG/qa-project-Urban-Grocers-app-es.git):** Suite automatizada con Pytest para la validación exhaustiva de parámetros mediante el análisis de valores límite y clases de equivalencia.
+* **[Automatización E2E: Reserva en Urban Routes](https://github.com/AxelCastanedaG/qa-project-Urban-Routes-es.git):** Framework robusto desarrollado con Python y Selenium WebDriver bajo el patrón Page Object Model (POM) para flujos complejos de UI.
 
 ## 📬 Conectemos
 
