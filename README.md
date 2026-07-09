@@ -31,6 +31,6 @@ Apasionado por la fiabilidad del producto, el diseño estratégico de casos de p
 
 ## 📬 Conectemos
 
-* **LinkedIn:** [://linkedin.com](http://www.linkedin.com/in/axel-castaneda-granado)
-* **Portafolio en Notion:** [Ver Casos de Prueba y Reportes](https://www.notion.so/My-Portfolio-2ca1c7f1c9bb802eb6c2f89500496a6d?source=copy_link)
+* **LinkedIn:** [Axel Castañeda Granado](http://www.linkedin.com/in/axel-castaneda-granado)
+* **Portafolio en Notion:** [Ver Casos de Prueba y Reportes](https://www.notion.so/My-Portfolio-2ca1c7f1c9bb802eb6c2f89500496a6d)
 * **Correo Electrónico:** [axel.castaneda.granado@gmail.com](mailto:axel.castaneda.granado@gmail.com)
